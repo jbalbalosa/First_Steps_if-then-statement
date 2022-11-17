@@ -13,7 +13,7 @@ public class Main {
 
 
         //Logical Operators
-        int topScore = 101;
+        int topScore = 80;
         if (topScore < 100){
             System.out.println("You got the high score!");
         }
