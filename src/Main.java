@@ -20,11 +20,6 @@ public class Main {
         else
             System.out.println("You got the great score");
 
-/*        int topScore = 90;
-        if (topScore != 100){
-            System.out.println("You didn't get the high score!");
-        }*/
-
         int secondTopScore = 60;
         if ((topScore > secondTopScore) && (topScore < 100)){
             System.out.println("Greater than second top score and less than 100");
